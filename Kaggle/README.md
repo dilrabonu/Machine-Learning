@@ -12,4 +12,4 @@ https://www.kaggle.com/code/dilrabonu/intel-image-classification  - Intel Image 
 
 https://www.kaggle.com/code/dilrabonu/covid-19-time-series   - Covid19 Time Series Dataset.
 
-https://www.kaggle.com/code/dilrabonu/most-watched-animes  - Most watched Animes In the World
+https://www.kaggle.com/code/dilrabonu/most-watched-animes  - Most watched Animes In the World.
