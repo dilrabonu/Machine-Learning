@@ -8,10 +8,10 @@
 
 5. https://www.kaggle.com/code/dilrabonu/housing-pricing-dataset  - Housining Price Dataset.
 
-6. https://www.kaggle.com/code/dilrabonu/intel-image-classification  - Intel Image Classification.
+6. https://www.kaggle.com/code/dilrabonu/intel-image-classification  - Intel Image Classification
 
-7. https://www.kaggle.com/code/dilrabonu/covid-19-time-series   - Covid19 Time Series Dataset.
+7. https://www.kaggle.com/code/dilrabonu/covid-19-time-series   - Covid19 Time Series Dataset
 
-8. https://www.kaggle.com/code/dilrabonu/most-watched-animes  - Most watched Animes In the World.
+8. https://www.kaggle.com/code/dilrabonu/most-watched-animes  - Most watched Animes In the World
 
-9. https://www.kaggle.com/code/dilrabonu/you-tube-comments - You Tube Sentinment Anlaysis.
+9. https://www.kaggle.com/code/dilrabonu/you-tube-comments - You Tube Sentinment Anlaysis
