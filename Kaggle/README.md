@@ -1,12 +1,12 @@
-1. https://www.kaggle.com/code/dilrabonu/detection-schizophrenia  - Schizophrenia.
+1. https://www.kaggle.com/code/dilrabonu/detection-schizophrenia  - Schizophrenia
 
-2. https://www.kaggle.com/code/dilrabonu/march-machine-learning  - March Machine Learning.
+2. https://www.kaggle.com/code/dilrabonu/march-machine-learning  - March Machine Learning
 
-3. https://www.kaggle.com/code/dilrabonu/notebookb0db67825b  - Mall Customer Segmentation dataset.
+3. https://www.kaggle.com/code/dilrabonu/notebookb0db67825b  - Mall Customer Segmentation dataset
 
-4. https://www.kaggle.com/code/dilrabonu/google-play-store-review  - Google Play Store Review.
+4. https://www.kaggle.com/code/dilrabonu/google-play-store-review  - Google Play Store Review
 
-5. https://www.kaggle.com/code/dilrabonu/housing-pricing-dataset  - Housining Price Dataset.
+5. https://www.kaggle.com/code/dilrabonu/housing-pricing-dataset  - Housining Price Dataset
 
 6. https://www.kaggle.com/code/dilrabonu/intel-image-classification  - Intel Image Classification
 
