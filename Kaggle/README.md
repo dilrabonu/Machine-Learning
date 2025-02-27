@@ -4,13 +4,13 @@
 
 3. https://www.kaggle.com/code/dilrabonu/notebookb0db67825b  - Mall Customer Segmentation dataset.
 
-4. https://www.kaggle.com/code/dilrabonu/google-play-store-review  - Google Play Store Review
+4. https://www.kaggle.com/code/dilrabonu/google-play-store-review  - Google Play Store Review.
 
-5. https://www.kaggle.com/code/dilrabonu/housing-pricing-dataset  - Housining Price Dataset
+5. https://www.kaggle.com/code/dilrabonu/housing-pricing-dataset  - Housining Price Dataset.
 
-6. https://www.kaggle.com/code/dilrabonu/intel-image-classification  - Intel Image Classification
+6. https://www.kaggle.com/code/dilrabonu/intel-image-classification  - Intel Image Classification.
 
-7. https://www.kaggle.com/code/dilrabonu/covid-19-time-series   - Covid19 Time Series Dataset
+7. https://www.kaggle.com/code/dilrabonu/covid-19-time-series   - Covid19 Time Series Dataset.
 
 8. https://www.kaggle.com/code/dilrabonu/most-watched-animes  - Most watched Animes In the World
 
