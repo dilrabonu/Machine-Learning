@@ -17,3 +17,5 @@
 9. https://www.kaggle.com/code/dilrabonu/you-tube-comments - You Tube Sentinment Anlaysis.
 
 10. https://www.kaggle.com/code/dilrabonu/cats-dogs  -  Cats & dogs   deep learning
+
+11. - Konwinski prize
