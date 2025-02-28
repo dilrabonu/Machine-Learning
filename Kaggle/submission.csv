@@ -1,0 +1,3 @@
+id,patch
+0,stypeerror unsupported format string passed nonetypeformat regression steps reproduce apy
+1,pylint checks incorrect type properties getter setter steps reproduce install p
