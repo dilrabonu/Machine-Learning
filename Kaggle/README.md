@@ -18,4 +18,4 @@
 
 10. https://www.kaggle.com/code/dilrabonu/cats-dogs  -  Cats & dogs   deep learning
 
-11. - Konwinski prize
+11. - Konwinski prize.
