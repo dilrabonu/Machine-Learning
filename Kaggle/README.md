@@ -20,4 +20,4 @@
 
 11. https://www.kaggle.com/code/dilrabonu/konwinski-prize - Konwinski prize.
 
-12. - Ad Click Prediction Dataset.
+12. https://www.kaggle.com/code/dilrabonu/ad-click-prediction-dataset  - Ad Click Prediction Dataset.
