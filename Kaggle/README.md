@@ -1,3 +1,4 @@
+Kaggle Links
 1. https://www.kaggle.com/code/dilrabonu/detection-schizophrenia  - Schizophrenia.
 
 2. https://www.kaggle.com/code/dilrabonu/march-machine-learning  - March Machine Learning.
@@ -16,7 +17,7 @@
 
 9. https://www.kaggle.com/code/dilrabonu/you-tube-comments - You Tube Sentinment Anlaysis.
 
-10. https://www.kaggle.com/code/dilrabonu/cats-dogs  -  Cats & dogs   deep learning
+10. https://www.kaggle.com/code/dilrabonu/cats-dogs  -  Cats & dogs   deep learning.
 
 11. https://www.kaggle.com/code/dilrabonu/konwinski-prize - Konwinski prize.
 
