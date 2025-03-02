@@ -21,3 +21,5 @@
 11. https://www.kaggle.com/code/dilrabonu/konwinski-prize - Konwinski prize.
 
 12. https://www.kaggle.com/code/dilrabonu/ad-click-prediction-dataset  - Ad Click Prediction Dataset.
+
+13. - Spam Email Detection
