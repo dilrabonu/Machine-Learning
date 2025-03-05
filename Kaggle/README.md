@@ -29,7 +29,7 @@
 ![image](https://github.com/user-attachments/assets/982e83b0-b5bb-4927-89f5-a5481ef0a33a)
 
 15. https://www.kaggle.com/code/dilrabonu/notebook48bc49e06d - RNA3D dataset.
-16. - Credit Card Fraud Detection
+16.    - Credit Card Fraud Detection.
     
     
 
