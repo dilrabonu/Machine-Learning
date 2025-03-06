@@ -33,7 +33,7 @@
 16. https://www.kaggle.com/code/dilrabonu/credit-card-fraud-detection  - Credit Card Fraud Detection.
  ![image](https://github.com/user-attachments/assets/a743537a-4955-40b8-a2d3-6c8828ce420b)
 
-17. - Fake News Detection. 
+17. https://www.kaggle.com/code/dilrabonu/fake-news-detection - Fake News Detection. 
 
     
     
