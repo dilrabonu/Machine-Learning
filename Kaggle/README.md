@@ -1,4 +1,4 @@
-                  *Kaggle Links*
+                     *Kaggle Links*
 1. https://www.kaggle.com/code/dilrabonu/detection-schizophrenia  - Schizophrenia.
 
 2. https://www.kaggle.com/code/dilrabonu/march-machine-learning  - March Machine Learning.
@@ -35,7 +35,7 @@
 
 17. https://www.kaggle.com/code/dilrabonu/fake-news-detection - Fake News Detection.
 
-18. -Medical Cost Prediction
+18. -Medical Cost Prediction.
 
     
     
