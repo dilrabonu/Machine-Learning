@@ -35,7 +35,7 @@
 
 17. https://www.kaggle.com/code/dilrabonu/fake-news-detection - Fake News Detection.
 
-18. -Medical Cost Prediction.
+18. https://www.kaggle.com/code/dilrabonu/medical-cost-predict -Medical Cost Prediction.
 
     
     
